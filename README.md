@@ -7,7 +7,7 @@ A web application that searches all types of events in the United States. User c
 
 Here it is the link for the application:
 
-https://jaab30.github.io/event_concierge/
+https://mkf1302.github.io/eventConcierge/
 
 Enjoy..!
 
